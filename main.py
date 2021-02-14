@@ -15,7 +15,7 @@ def pick():
 pick()
 '''
 #joining the selected period
-prd = "7" #input("Which period would you like to join? ")
+prd = input("Which period would you like to join? ")
 pswdInpt = input("Does this meeting require a password? (Y/N): ").upper()
 
 print("Opening page...")
