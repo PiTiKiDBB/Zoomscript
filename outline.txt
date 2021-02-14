@@ -1,0 +1,23 @@
+
+
+Functionality 
+	Which period woull you like to join: <Preferably gui>
+		Period 1 
+		Period 2
+		Period 3
+		Period 4 
+		Period 5
+		Period 6
+		Period 7
+		Period 8
+			Selected period: 
+				Join <Using pyautogui>
+Possible addition - Automatically close the zoom and join the next period for that day automatically 
+	
+
+Function i need:
+	Look for password text box on screen
+		if found
+			go to webpage, copy and paste password
+		if not
+			stop the script
